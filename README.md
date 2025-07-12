@@ -32,12 +32,4 @@ This project showcases a one-page interactive dashboard built in Power BI to ana
 
 ---
 
-## 📂 Files
-
-- `Retail_Sales_Dashboard.pbix` – Main dashboard file
-- `Dashboard_Screenshot.png` – Preview image
-- `README.md` – Project documentation
-
----
-
 > 📧 For collaboration or feedback: [krishvijayvargiya25@gmail.com](mailto:krishvijayvargiya25@gmail.com)
